@@ -16,7 +16,7 @@ public class OnlineGame : NetworkBehaviour
     public Image[] images;
     public GameObject[] bottons;
 
-    void Start()
+    void Awake()
     {
         if (PlayerPrefs.GetInt("Language", 0) == 1)
         {

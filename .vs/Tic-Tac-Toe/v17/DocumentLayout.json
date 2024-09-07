@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "E:\\Tic-Tac-Toe\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5620242D-473D-A4B7-96F8-DF3E181FFFD0}|Assembly-CSharp.csproj|e:\\tic-tac-toe\\assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5620242D-473D-A4B7-96F8-DF3E181FFFD0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5620242D-473D-A4B7-96F8-DF3E181FFFD0}|Assembly-CSharp.csproj|e:\\tic-tac-toe\\assets\\scripts\\onlinegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5620242D-473D-A4B7-96F8-DF3E181FFFD0}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\onlinegame.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,11 +26,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "E:\\Tic-Tac-Toe\\Assets\\Scripts\\Menu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Menu.cs",
+              "ToolTip": "E:\\Tic-Tac-Toe\\Assets\\Scripts\\Menu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Menu.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADQAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T16:02:01.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "NetworkManagerHUD.cs",
               "DocumentMoniker": "E:\\Tic-Tac-Toe\\Assets\\Mirror\\Core\\NetworkManagerHUD.cs",
               "RelativeDocumentMoniker": "Assets\\Mirror\\Core\\NetworkManagerHUD.cs",
@@ -38,7 +55,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "SingleGame.cs",
               "DocumentMoniker": "E:\\Tic-Tac-Toe\\Assets\\Scripts\\SingleGame.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\SingleGame.cs",
@@ -46,18 +63,17 @@
               "RelativeToolTip": "Assets\\Scripts\\SingleGame.cs",
               "ViewState": "AQIAAFsAAAAAAAAAAAAAAGgAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T06:45:29.88Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-07T06:45:29.88Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "OnlineGame.cs",
               "DocumentMoniker": "E:\\Tic-Tac-Toe\\Assets\\Scripts\\OnlineGame.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\OnlineGame.cs",
               "ToolTip": "E:\\Tic-Tac-Toe\\Assets\\Scripts\\OnlineGame.cs",
               "RelativeToolTip": "Assets\\Scripts\\OnlineGame.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAADgAAAAaAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T05:42:35.4Z",
               "EditorCaption": ""
