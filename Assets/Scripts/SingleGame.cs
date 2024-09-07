@@ -92,8 +92,8 @@ public class SingleGame : MonoBehaviour
         canMove = false;
         StringBuilder sb = new StringBuilder(board); sb[pos] = num == -1 ? '1' : '2'; board = sb.ToString();
         images[pos].material = Instantiate(mats[num == -1 ? 0 : 1]); images[pos].color = new Color(1, 1, 1, 1);
-        for (float i = 0; i < 1; i += 1 / 60f) { images[pos].material.SetFloat("_Fade", i); yield return new WaitForSeconds(1f / 60); }
-        canMove = true;
+        for (float i = 0; i < 1; i += 1 / 30f) { images[pos].material.SetFloat("_Fade", i); yield return new WaitForSeconds(1f / 60); }
+        images[pos].material.SetFloat("_Fade", 1); canMove = true;
     }
 
     public void OnButtonClicked(int num)
